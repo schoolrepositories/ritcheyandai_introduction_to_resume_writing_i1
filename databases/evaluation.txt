@@ -1,0 +1,75 @@
+Question: A resume is a ____ of a person's skills, experience, and education.
+Choices: summary | trumary
+Answer: summary
+Question: The section of a resume that lists job experience is called the ____ section.
+Choices: work history | jorb track
+Answer: work history
+Question: The section of a resume that highlights degrees and certifications is called the ____ section.
+Choices: learnlist | education
+Answer: education
+Question: A resume section that includes technical and soft skills is known as the ____ section.
+Choices: abilitron | skills
+Answer: skills
+Question: The first section of a resume usually contains the applicant's ____.
+Choices: contact information | reachlisting
+Answer: contact information
+Question: ATS stands for ____ Tracking System.
+Choices: Applicant | Assessant
+Answer: Applicant
+Question: ATS software is used by employers to ____ resumes for relevant qualifications.
+Choices: scan | blark
+Answer: scan
+Question: A resume should be formatted to be easily readable by both humans and ____.
+Choices: JSR | ATS
+Answer: ATS
+Question: Many companies require resumes to be submitted in ____ format to ensure compatibility.
+Choices: ZXF | PDF
+Answer: PDF
+Question: A resume in a Word document format is usually saved as a ____ file.
+Choices: DOCX | TXTJ
+Answer: DOCX
+Question: A resume file type that preserves formatting but can be difficult for ATS to read is ____.
+Choices: GRT | PDF
+Answer: PDF
+Question: A section where an applicant can describe their professional objectives is called the ____ section.
+Choices: summary | descriptoid
+Answer: summary
+Question: The best resume format for someone with a strong career history is ____.
+Choices: chronological | histomatrix
+Answer: chronological
+Question: The best resume format for someone changing careers is the ____ resume.
+Choices: swipestyle | functional
+Answer: functional
+Question: A combination resume is a mix of the chronological and ____ formats.
+Choices: docusort | functional
+Answer: functional
+Question: A resume should typically be ____ page(s) long for most applicants.
+Choices: trine | one
+Answer: one
+Question: A resume should avoid including ____.
+Choices: personal information | qualipoints
+Answer: personal information
+Question: A cover letter is often sent with a resume and should be ____.
+Choices: repetextual | personalized
+Answer: personalized
+Question: A resume should use ____ language to describe experience and achievements.
+Choices: action-oriented | softdetail
+Answer: action-oriented
+Question: Bullet points are commonly used in resumes because they improve ____.
+Choices: textglance | readability
+Answer: readability
+Question: The process of adjusting a resume to match a job posting is called ____.
+Choices: tailoring | framingset
+Answer: tailoring
+Question: When submitting a resume online, it's important to use ____ keywords.
+Choices: relevant | autocent
+Answer: relevant
+Question: A good resume should avoid ____.
+Choices: informlists | typos
+Answer: typos
+Question: Including ____ can help demonstrate credibility in a resume.
+Choices: certifications | relanumbers
+Answer: certifications
+Question: To make a resume ATS-friendly, it's best to avoid ____.
+Choices: images | visugraphs
+Answer: images

@@ -1,0 +1,1 @@
+That looks great, except you've used Markdown in your response. Even the article can't use Markdown. If you need to create anything with formatting (e.g. lists, tables, etc), use HTML with inline CSS. Otherwise, use plain-text.
